@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="6_1_MODELIO_GARCIADEALBENIZ_LEA_2425" version="4">
+  <OBJECT>
+    <ID name="6_1_MODELIO_GARCIADEALBENIZ_LEA_2425" mc="Infrastructure.DiagramSet" uid="fcfb0bff-0ae3-4a0b-a3dd-ad903229d665"/>
+    <PID name="6_1_MODELIO_GARCIADEALBENIZ_LEA_2425" mc="Standard.Project" uid="1cbb3c7c-49a4-4939-a4f3-371d7b36cdf1"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[6_1_MODELIO_GARCIADEALBENIZ_LEA_2425]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

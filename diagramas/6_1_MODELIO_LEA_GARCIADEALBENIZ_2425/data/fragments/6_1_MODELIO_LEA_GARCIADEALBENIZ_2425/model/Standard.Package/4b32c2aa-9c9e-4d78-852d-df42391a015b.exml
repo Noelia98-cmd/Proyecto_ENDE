@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="6_1_modelio_lea_garciadealbeniz_2425" version="4">
+  <OBJECT>
+    <ID name="6_1_modelio_lea_garciadealbeniz_2425" mc="Standard.Package" uid="4b32c2aa-9c9e-4d78-852d-df42391a015b"/>
+    <PID name="6_1_MODELIO_LEA_GARCIADEALBENIZ_2425" mc="Standard.Project" uid="d298b33a-f01b-4e1d-8d6c-6b9f2f9ae66e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[6_1_modelio_lea_garciadealbeniz_2425]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Class" uid="7a6e5ada-0730-407c-8c5d-9f46413c7749"/>
+        <COMPID name="Cancion" mc="Standard.Class" uid="ffe78d41-27b5-40aa-956c-ed54f3566ea5"/>
+        <COMPID name="MetodosPago" mc="Standard.Class" uid="7babcdb9-ed40-4703-bf26-091001f66d28"/>
+        <COMPID name="TarjetaCredito" mc="Standard.Class" uid="5d8d12fc-c0f5-4790-96f8-5aef2f91f077"/>
+        <COMPID name="Paypal" mc="Standard.Class" uid="9265b2f9-8c71-4d3d-a978-03e986737a04"/>
+        <COMPID name="Bizum" mc="Standard.Class" uid="6e14935d-ab94-4eed-93a1-8772050607ba"/>
+        <COMPID name="Recomendacion" mc="Standard.Class" uid="9897eb73-7c65-4c78-a015-68cdba506a55"/>
+        <COMPID name="Reproduccion" mc="Standard.Class" uid="1fed7455-94b1-4439-b59c-1979a02cac48"/>
+        <COMPID name="Administrador" mc="Standard.Class" uid="4fbd2692-7ad3-4c29-b32e-20f20dc1b752"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="6_1_modelio_lea_garciadealbeniz_2425 Class diagram" mc="Standard.ClassDiagram" uid="3dfbc578-1534-4c6b-ba03-284cbd00eb4a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

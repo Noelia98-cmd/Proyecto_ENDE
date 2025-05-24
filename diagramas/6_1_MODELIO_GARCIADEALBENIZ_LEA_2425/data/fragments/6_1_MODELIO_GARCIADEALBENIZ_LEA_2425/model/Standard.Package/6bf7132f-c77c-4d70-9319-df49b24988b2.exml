@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="6_1_modelio_garciadealbeniz_lea_2425" version="4">
+  <OBJECT>
+    <ID name="6_1_modelio_garciadealbeniz_lea_2425" mc="Standard.Package" uid="6bf7132f-c77c-4d70-9319-df49b24988b2"/>
+    <PID name="6_1_MODELIO_GARCIADEALBENIZ_LEA_2425" mc="Standard.Project" uid="1cbb3c7c-49a4-4939-a4f3-371d7b36cdf1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[6_1_modelio_garciadealbeniz_lea_2425]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario no identificado" mc="Standard.Actor" uid="9f1656ac-eb10-466f-9662-ba24a5a2c22d"/>
+        <COMPID name="Admin" mc="Standard.Actor" uid="b20fa2a2-a7ba-4c1b-b264-5af084da5f55"/>
+        <COMPID name="Usuario" mc="Standard.Actor" uid="fa9ef826-684f-46b9-9c1a-d023dbbbadea"/>
+        <COMPID name="Registrarse" mc="Standard.UseCase" uid="4c7da188-c465-4e39-95ca-5abb0a90e959"/>
+        <COMPID name="Iniciar sesion" mc="Standard.UseCase" uid="2917a807-4706-4cd2-bb91-11884831c74c"/>
+        <COMPID name="recomendar canciones" mc="Standard.UseCase" uid="b3e45bc7-8ad0-4ebc-8c63-7093bd0099b8"/>
+        <COMPID name="escuchar cancion" mc="Standard.UseCase" uid="2de1e732-8fc3-4842-8352-f87bbdf22bc8"/>
+        <COMPID name="Añadir metodo de pago" mc="Standard.UseCase" uid="492a7378-4c59-4d26-8c8d-988ee223eec6"/>
+        <COMPID name="Añadir amigo" mc="Standard.UseCase" uid="4d5fa379-ea96-4cb4-897b-d382329f3382"/>
+        <COMPID name="Registro de cancion escuchada" mc="Standard.UseCase" uid="65d8a43f-1759-425b-be6d-bd59dc549688"/>
+        <COMPID name="registro de reproduccion" mc="Standard.UseCase" uid="9080d95e-6918-4eb8-a736-8dfef1044ddd"/>
+        <COMPID name="Consultar puntos" mc="Standard.UseCase" uid="69148da2-0494-4aa8-be91-ce6c80c3140e"/>
+        <COMPID name="Buscar cancion" mc="Standard.UseCase" uid="d2ff44df-b842-4add-bdfc-ff82502c6b33"/>
+        <COMPID name="Añadir cancion a favoritas" mc="Standard.UseCase" uid="ac14da01-461a-4198-b951-bc022f676e47"/>
+        <COMPID name="Canjear puntos" mc="Standard.UseCase" uid="66b84613-626e-4ca3-8660-11f25f4e44ea"/>
+        <COMPID name="escuchar cancion recomendada" mc="Standard.UseCase" uid="1cd55e66-b1df-412b-81fc-2c5799d03dd2"/>
+        <COMPID name="Ganar 1 punto" mc="Standard.UseCase" uid="fd953d44-f3e4-47f4-82d1-bba5a276562d"/>
+        <COMPID name="Verificar puntos" mc="Standard.UseCase" uid="135e84bc-2698-404d-a5ff-87dab48201f2"/>
+        <COMPID name="Mostrar canciones" mc="Standard.UseCase" uid="b4fa53d4-be69-46e6-92fd-733df3af8c7c"/>
+        <COMPID name="Seleccionar cancion" mc="Standard.UseCase" uid="13c75a26-5988-4c22-acdf-aea452a9e0a8"/>
+        <COMPID name="Mover cancion a permanente" mc="Standard.UseCase" uid="496e7b62-8d3d-4b2b-8926-4b708edc96c5"/>
+        <COMPID name="Eliminar Cancion de favoritos" mc="Standard.UseCase" uid="b4d04b7d-bed8-442c-84ed-acea5f9f7be6"/>
+        <COMPID name="Restar puntos" mc="Standard.UseCase" uid="5deab2fd-8a5a-4d90-8bc8-be9d941ab954"/>
+        <COMPID name="Registro de usuario" mc="Standard.UseCase" uid="28370684-f5f8-4f0b-b375-56d43e5769be"/>
+        <COMPID name="Registro de fecha y hora" mc="Standard.UseCase" uid="d5a35b2c-4e35-4510-b82b-3f1d4aedbd2c"/>
+        <COMPID name="Ver canciones favoritas" mc="Standard.UseCase" uid="ee94a71e-1044-4aaf-9478-dc5f1f108cba"/>
+        <COMPID name="pagar" mc="Standard.UseCase" uid="855621af-f0e1-4c98-8d2a-281ceb88406f"/>
+        <COMPID name="Gestion de la plataforma" mc="Standard.UseCase" uid="7134bca4-adf7-4afb-a065-eec96fc1a290"/>
+        <COMPID name="Añadir cancion" mc="Standard.UseCase" uid="33bfb2f4-1714-4032-abe4-e2fb73e8b9c4"/>
+        <COMPID name="Eliminar cancion" mc="Standard.UseCase" uid="e572f231-4430-4eb0-be02-604ea1248ba0"/>
+        <COMPID name="Editar cancion" mc="Standard.UseCase" uid="baac5cd0-4eb0-4e8f-9010-6d7b16fa4fe8"/>
+        <COMPID name="Gestionar cuentas de usuario" mc="Standard.UseCase" uid="33bb2d13-a746-4882-9124-70df0dbab5a5"/>
+        <COMPID name="Visualizar colección permanente" mc="Standard.UseCase" uid="40b4057a-344f-4403-8349-f62ec2a35074"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="6_1_modelio_garciadealbeniz_lea_2425 Use Case diagram" mc="Standard.UseCaseDiagram" uid="ceb46ed1-f539-4a82-b0fb-bd04fb443cd2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
