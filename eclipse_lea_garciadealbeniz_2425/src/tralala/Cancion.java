@@ -25,10 +25,10 @@ public class Cancion {
 
     public static void canjearCanciones(Usuario usuario) {
         if (usuario.getPuntos() < 100) {
-            System.out.println("No tienes suficientes puntos para canjear canciones.");
+            System.out.println("No te quedan suficientes `puntos");
             return;
         }
-
+         
         List<Cancion> favoritas = new ArrayList<>(usuario.getCancionesFavoritas());
         int maxCanciones = usuario.getPuntos() / 100;
         List<Cancion> cancionesACanjear = new ArrayList<>();
