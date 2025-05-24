@@ -17,7 +17,7 @@ public class CancionTest {
     private Cancion cancion1;
     private Cancion cancion2;
     private Cancion cancion3;
-
+//Inicio test
     @BeforeEach
     void setUp() {
         cancion1 = new Cancion("Canción 1");
@@ -29,7 +29,7 @@ public class CancionTest {
         usuario.getCancionesFavoritas().clear();
         usuario.getColeccionPermanente().clear();
     }
-
+//Test no tiene puntos
     @Test
     void testNoTienePuntosSuficientes() {
         usuario.setPuntos(80);
