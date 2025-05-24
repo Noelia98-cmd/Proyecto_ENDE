@@ -63,6 +63,7 @@ public class Cancion {
         Cancion cancion = (Cancion) obj;
         return titulo != null && titulo.equals(cancion.titulo);
     }
+    
 
     @Override
     public int hashCode() {
