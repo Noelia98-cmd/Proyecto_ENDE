@@ -25,7 +25,7 @@ public class Cancion {
 
     public static void canjearCanciones(Usuario usuario) {
         if (usuario.getPuntos() < 100) {
-            System.out.println("No tienes suficientes puntos para canjear canciones.");
+            System.out.println("No tienes suficientes puntos");
             return;
         }
 
