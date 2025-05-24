@@ -61,8 +61,10 @@ public class Cancion {
         if (this == obj) return true;
         if (obj == null || getClass() != obj.getClass()) return false;
         Cancion cancion = (Cancion) obj;
+        System.out.println("hola y adios");
         return titulo != null && titulo.equals(cancion.titulo);
     }
+    
 
     @Override
     public int hashCode() {
